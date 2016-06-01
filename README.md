@@ -1,6 +1,6 @@
 # force_allow_access_windows_trick
 
-#### Force allow access in firewall at windows 7 /  10
+#### Force allow access in windows firewall
 
 What if I tell you that you can use Windows API to simulate a keystroke so as to bypass firewall checks?
 
