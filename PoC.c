@@ -12,6 +12,8 @@ This bypass the windows firewall, Search firewall GUI if found uses winapi to si
 Example:
 
 g++ bypass_firewall.cpp -o bypass
+or
+"g++ -I"C:\MinGW\include" -L"C:\MinGW\lib" -mwindows ..." or "gcc -I"C:\MinGW\include" -L"C:\MinGW\lib" -mwindows ..."
 
 Click in open at bypass.exe, leave program running
 
